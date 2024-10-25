@@ -1,3 +1,3 @@
 # student-IT
-this is my first Git Repository
+this is my first Git Repository.
 Author - vikas yadav
